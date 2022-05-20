@@ -1,0 +1,185 @@
+html{
+    display: flex;
+    Justify-content: center;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    width:1100px;
+    height:200px ;
+    Background-color: rgb(82, 80, 80);
+}
+Header{
+    Display: flex;
+    Width: 200px;
+    Height:200px ;
+    Background-color: rgb(0, 2, 2);
+}
+#logo{
+height:200px;
+width:200px;
+background-color: rgb(0, 0, 0);
+
+}
+#imagen4{
+    Height:200px ;
+Width: 250px;
+
+}
+#Menu{
+    Display: flex;
+    Justify-content: center;
+    Height: 200px;
+    Width: 850px;
+    Background-color: rgb(216, 4, 4);
+}
+Main{
+    Display: flex;
+}
+Article{
+    Height: 820px;
+    Width: 250px;
+    Background-color: rgb(73, 94, 94);
+    Margin-right: 20px;
+    Margin-top: 10px;
+}
+Aside{
+    Flex-direction: column;
+    Display: flex;
+    Width: 830px;
+    Height:820px ;
+    Background-color: rgb(61, 106, 109);
+    Margin-bottom: 20px;
+}
+#caja1{
+    Display: flex;
+    Justify-content: end;
+    Height: 250px;
+    Width: 800px;
+    Background-color: crimson;
+    Margin-bottom: 20px;
+    Margin-top: 10px;
+    Margin-left: 15px;   
+}
+Img{
+    Height: 250px;
+    Width: 250px;
+}
+#caja11{
+    Height: 250px;
+    Width: 600px;
+    Background-color: rgb(172, 182, 182);
+    Margin-bottom: 20px;
+
+}
+#caja2{
+    Display: flex;
+    Justify-content: right;
+    Height: 250px;
+    Width: 800px;
+    Background-color: crimson;
+    Margin-bottom: 20px;
+    Margin-left: 15px;
+}
+#caja22{
+    Height: 250px;
+    Width: 600px;
+    Background-color: rgb(172, 182, 182);
+    Margin-bottom: 20px;
+}
+#caja3{
+    Display: flex;
+    Height: 250px;
+    Width: 800px;
+    Background-color: crimson;
+    Margin-bottom: 20px;
+    Margin-left: 15px;
+}
+
+#caja33{
+    Height: 250px;
+    Width: 600px;
+    Background-color:  rgb(172, 182, 182);
+}
+
+.texto1{
+    Font-family: cursive;
+
+}
+.texto2{
+    Font-family: monospace;
+}
+.texto3{
+    Font-family: ‘Gill Sans’, ‘Gill Sans MT’, Calibri, ‘Trebuchet MS’, sans-serif;
+}
+Footer{
+    Width: 1100px;
+    Height: 200px;
+    Background-color: darkseagreen;
+}
+#imagen5{
+    Width: 250px;
+Height: 200px;
+}
+#imagen6{
+    Width: 250px;
+Height: 200px;
+}
+#imagen7{
+Width: 250px;
+Height: 200px;
+}
+#imagen8{
+    Width: 250px;
+    Height: 200px;
+
+}
+.texto7{
+    Font-family: sans-serif;
+}
+Nav{
+    Width:1100px ;
+    Height: 200px;
+    Background-color: rgb(143, 94, 86);
+    
+}
+Ul{
+    Display: flex;
+ List-style: none;
+ Display:flex ;
+ Justify-content:space-evenly ;
+ Align-items: center
+}
+A:link{
+    Text-decoration: none;
+    Color: black;
+    Padding: 5px;
+    /* background-color: blanchedalmond; */
+}
+A:hover{
+    Text-decoration: none;
+    Color: rgb(80, 80, 80);
+    Padding: 5px;
+    Color: rgb(0, 0, 0);
+    Background-color: rgb(250, 58, 58);
+}
+#t3{
+    Display: flex;
+    Justify-content: right;
+    Align-items: flex-end;
+}
+#t2{
+    Display: flex;
+    Justify-content: right;
+    Align-items: flex-end;
+}
+
+#t1{
+    Display: flex;
+    Justify-content: right;
+    Align-items: flex-end;
+}
+
+
+   
